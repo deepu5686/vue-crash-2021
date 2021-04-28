@@ -17,12 +17,6 @@
       "day": "March 10th 6:PM",
       "reminder": true,
       "id": 12
-    },
-    {
-      "text": "Task",
-      "day": "Monday",
-      "reminder": true,
-      "id": 13
     }
   ]
 }
